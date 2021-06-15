@@ -1,4 +1,10 @@
 # WorldCupProject
+
+Link to Dataset: https://www.kaggle.com/abecklas/fifa-world-cup
+
+Data Credit to: Andre Becklas
+
+
 In this project I look at a general overview of the data I have for the World Cup then answer two questions from the data.
 
 The first question I look to answer is:
